@@ -1,4 +1,6 @@
 # Modelo Relacional (estilo MySQL Workbench) — Grupo 7: Coony
+> bem vindo ao nosso projeto Coony
+[![Pikachu](https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif)](https://pokemondb.net/pokedex/pikachu)
 
 Autores:
 - Joelyson Alcantara da Silva
