@@ -12,7 +12,7 @@ Autores:
 
 ![SiteProjeto](qrcode.jpeg)
 
-## Sumário
+## Sumário 
 - [Entidades e Atributos](#entidades-e-atributos)
 - [Relacionamentos (Cardinalidade)](#relacionamentos-cardinalidade)
 - [Regras de Integridade e Restrições](#regras-de-integridade-e-restrições)
@@ -20,6 +20,7 @@ Autores:
 - [Relatório de Minimundos](#relatório-de-minimundos-do-banco-de-dados—coony)
 - [Esquema Físico MySQL (DDL)](#esquema-físico-mysql-ddl)
 
+[![Pichu](https://img.pokemondb.net/sprites/black-white/normal/pichu.png)](https://pokemondb.net/pokedex/pichu)
 ## Entidades e Atributos
 
 ### Usuario
@@ -117,7 +118,7 @@ Aqui está um **relatório completo e profissional de Minimundos**, totalmente b
 O texto está estruturado, claro e pronto para usar em documentação, projeto de faculdade ou análise de requisitos.
 
 ---
-
+[![Mew](https://img.pokemondb.net/sprites/ruby-sapphire/normal/mew.png)](https://pokemondb.net/pokedex/mew)
 # ✅ **RELATÓRIO DOS MINIMUNDOS DO BANCO DE DADOS — COONY**
 
 O sistema modelado pelo banco de dados representa uma plataforma social e comercial voltada para **usuários, empresas, anúncios, eventos, publicações, conversas e interações**.
@@ -318,6 +319,7 @@ A modelagem cobre operações sociais, comerciais e de comunicação.
 
 ---
 
+[![Mewtwo](https://img.pokemondb.net/sprites/silver/normal/mewtwo.png)](https://pokemondb.net/pokedex/mewtwo)
 # Esquema Físico MySQL (DDL)
 
 O DDL abaixo implementa as entidades e relações identificadas no modelo relacional, utilizando o engine InnoDB e o charset utf8mb4.
@@ -553,6 +555,7 @@ CREATE TABLE `usuarios_evento_favorited_by` (
 
 SET FOREIGN_KEY_CHECKS = 1;
 ```
+[![Meowth](https://img.pokemondb.net/sprites/silver/normal/meowth.png)](https://pokemondb.net/pokedex/meowth)
 
 ## Notas
 - Os nomes das tabelas seguem a convenção app-model; se as migrations utilizarem nomes diferentes, ajuste conforme necessário.
@@ -566,3 +569,6 @@ SET FOREIGN_KEY_CHECKS = 1;
 ![Modelo Logico](Lógico_Coony.png)
 ## MODELO FÍSICO:
 ![Modelo Físico](Fisico_Coony.png)
+
+
+## me conta, quantos pokémon você encontrou?
