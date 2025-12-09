@@ -8,6 +8,8 @@ Autores:
 
 > Este Modelo Relacional (MR) foi elaborado a partir dos modelos Django em `usuarios/models.py` e representa o desenho físico do banco de dados: entidades, chaves primárias/estrangeiras, relacionamentos 1:N e N:N, regras de integridade e considerações de ordenação/índices.
 
+![SiteProjeto](qrcode.jpeg)
+
 ## Sumário
 - [Entidades e Atributos](#entidades-e-atributos)
 - [Relacionamentos (Cardinalidade)](#relacionamentos-cardinalidade)
